@@ -35,7 +35,7 @@ export const userModel: UserModel[] = [
     refreshToken: '__REFRESH_TOKEN_ADMIN__',
     userId: '3',
     userName: 'sxy',
-    userRole: 'admin',
+    userRole: 'super',
     password: 'sxy2213722780'
   },
   {
@@ -43,7 +43,7 @@ export const userModel: UserModel[] = [
     refreshToken: '__REFRESH_TOKEN_USER01__',
     userId: '4',
     userName: 'zbq',
-    userRole: 'user',
+    userRole: 'super',
     password: 'zbq2216113096'
   },
 	{
@@ -51,7 +51,7 @@ export const userModel: UserModel[] = [
     refreshToken: '__REFRESH_TOKEN_USER01__',
     userId: '5',
     userName: 'szj',
-    userRole: 'user',
+    userRole: 'super',
     password: 'szj2211324610'
   },
 	{
@@ -59,7 +59,7 @@ export const userModel: UserModel[] = [
     refreshToken: '__REFRESH_TOKEN_USER01__',
     userId: '6',
     userName: 'cyb',
-    userRole: 'user',
+    userRole: 'super',
     password: 'cyb2215015012'
   },
 	{
@@ -67,7 +67,7 @@ export const userModel: UserModel[] = [
     refreshToken: '__REFRESH_TOKEN_USER01__',
     userId: '7',
     userName: 'yyh',
-    userRole: 'user',
+    userRole: 'super',
     password: 'yyh2223322279'
   },
 ];
